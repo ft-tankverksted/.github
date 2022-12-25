@@ -1,9 +1,3 @@
-<div style="display:flex; justify-content:center;">
-  <img  width="47%"  >
-  <img src="https://res.cloudinary.com/letanque/image/upload/v1596583057/fm03-single_asyq14.png" width="6%"  >
-  <img  width="47%"  >
-</div>
-
 ```bash
    ______   __   ______
   / ____ \ / /| /_  __/|_   _      __   _   ___
