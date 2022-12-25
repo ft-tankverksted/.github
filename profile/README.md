@@ -26,4 +26,5 @@ Some of the "codes" I live by:
 - Understand the problem, Plan solution(s), Execute, Reflect. UPER.
 - Write code for humans, not machines.
 - Don't hesistate to communicate.
-- Take ownership and build the future we need.
+- Take ownership 
+- build the future we need.
