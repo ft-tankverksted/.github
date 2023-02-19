@@ -14,11 +14,8 @@ Hello, I'm leTanque!
 I'm a software engineer who enjoys making music, working with my hands, and writing stable documented code.
 
 Some of the "codes" I live by:
-- Read the docs.
 - Smooth is slow, slow is fast.
-- You can save a week of planning by spending 3 weeks in additional development time.
-- Understand the problem, Plan solution(s), Execute, Reflect. UPER.
-- Write code for humans, not machines.
-- Don't hesistate to communicate.
-- Take ownership 
-- build the future we need.
+- UPER
+- Trust
+- Ownership
+- Communication
